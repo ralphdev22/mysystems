@@ -35,9 +35,9 @@
             </div>
           </div>
           <div class="form-group">
-            <label for="inputDescription" class="col-sm-2 control-label">Description</label>
+            <label for="inputDescription" class="col-sm-2 control-label">Details</label>
             <div class="col-sm-10">
-              <input type="text" class="form-control" id="inputDescription" name="inputDescription" placeholder="Description" value="<?php echo $row["content"]?>">
+              <input type="text" class="form-control" id="inputDescription" name="inputDescription" placeholder="Details" value="<?php echo $row["content"]?>">
             </div>
           </div>
           <div class="form-group">
