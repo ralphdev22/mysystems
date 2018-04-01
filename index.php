@@ -22,7 +22,7 @@
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
         <div class="row">
-          <div class="col-md-6"><h3>Bulletin board</h3></div>
+          <div class="col-md-6"><h3>Blogs</h3></div>
           <div class="col-md-6">
             <a id="btn-add" class="btn btn-primary pull-right" href="add.php" role="button">+ Create new</a>
           </div>
