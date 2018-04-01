@@ -24,7 +24,7 @@
   <body>
     <div class="row">
       <div class="col-md-8 col-md-offset-2">
-        <h2>View post</h2>
+        <h2>View blog</h2>
 
         <form class="form-horizontal" method="POST" action="process.php">
           <input type="hidden" name="id" value="<?php echo $row["id"];?>">
